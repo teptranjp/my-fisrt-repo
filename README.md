@@ -1,3 +1,3 @@
 # my-fisrt-commist
-# my-fisrt-repo
+# my-fisrt-awesome-comist
 # My-first-project
